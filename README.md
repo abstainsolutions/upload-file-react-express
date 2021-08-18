@@ -2,13 +2,6 @@
 
 Upload file via react and express js.
 
-## Steps to set up DB
-
-1. Download or clone using git clone https://github.com/abstainsolutions/react-crud-node.git
-2. Run any local server like wamp or xamp as we need to make DB connection
-3. Find react.sql file at root of application
-4. Create DB named "react" and import sql
-
 ## Steps to set up run node server
 
 DB details can be changed from index.js inside node folder. 
