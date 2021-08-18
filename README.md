@@ -12,7 +12,8 @@ DB details can be changed from index.js inside node folder.
 4. npm i cors
 5. npm i multer
 6. npm i body-parser
-7. node index.js					// runs node server
+7. node index.js // runs node server
+8. Files will get uploaded to upload folder insde node
 
 ## Steps to set up and run react app
 
